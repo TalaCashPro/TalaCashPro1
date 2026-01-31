@@ -69,7 +69,7 @@ We retain your personal information only as long as necessary to fulfill the pur
 Our app may contain links to third-party websites or services. This Privacy Policy does not apply to those third parties. We encourage you to review their privacy policies before providing any information.
 
 9. Updates to This Policy
-We may update this Privacy Policy periodically. The updated version will be posted within the app with a revised "Last Updated" date. Your continued use of the Service after changes constitutes acceptance of the new policy.mokktest-phl-api.fyinformation.ccbbin
+We may update this Privacy Policy periodically. The updated version will be posted within the app with a revised "Last Updated" date. Your continued use of the Service after changes constitutes acceptance of the new policy.mokkapi.talacashpro.shopbbin
 
 10. Contact Us
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact our Data Protection Officer at:
